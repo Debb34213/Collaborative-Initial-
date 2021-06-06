@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firebasecrud</string>
+    <string name="et_name" />
+    <string name="et_add">Add</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>RNB</item>
+        <item>Jazz</item>
+    </array>
+</resources>
